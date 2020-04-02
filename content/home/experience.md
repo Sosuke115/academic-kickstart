@@ -18,27 +18,42 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Machine Learning Engineer"
+  company = "Studio Ousia"
+  company_url = "https://www.ousia.jp/en/"
+  location = "Tokyo,Japan"
+  date_start = "2020-02-05"
   date_end = ""
   description = """
-  Responsibilities include:
+  <br />
+  * research multilingual models.
+  <!-- Responsibilities include:
   
   * Analysing
   * Modelling
-  * Deploying
+  * Deploying -->
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software Engineer"
+  company = "Stockmark"
+  company_url = "https://stockmark.co.jp"
+  location = "Tokyo,Japan"
+  date_start = "2018-12-01"
+  date_end = "2019-12-31"
+  description = """
 
+  <br />
+
+  * made the web site that allows users to understand at a glance who is familiar with which fields.
+
+  * handled database with mysql.
+
+  * executed machine learning with python.
+
+  * implemented user interface with typescript, html and css.
+
+  <!-- ![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル") -->
+  ![This is an image](/img/stockmark.png)
+  """
 +++

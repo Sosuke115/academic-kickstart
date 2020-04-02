@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Academic Kickstart"
@@ -73,3 +73,5 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}}
+
+
