@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master student 
+role: Master's student 
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,9 @@ bio:
 # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
+- Machine Learning
 - Computational Linguistics
-- Neural Network
+
 
 education:
   courses:
@@ -66,7 +66,7 @@ user_groups:
 ---
 
 
-Hi, I’m Sosuke Nishikawa (西川荘介).[CV](https://Sosuke115.github.io//files/test.pdf)
+Hi, I’m Sosuke Nishikawa (西川荘介).[CV](https://Sosuke115.github.io//files/CV.pdf)
 
 I am a master's student at the University of Tokyo. 
 My primary research interests lie in Natural Language Processing. In particular, I am interested in multilingual models, word and entity embedding.

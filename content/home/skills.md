@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python"
+  name = "Python/Pytorch"
   description = "80%"
   
 [[feature]]
@@ -29,14 +29,14 @@ subtitle = ""
 [[feature]]
   icon = "network-wired"
   icon_pack = "fas"
-  name = "Neural Network"
-  description = "50%"
+  name = "Machine Learning"
+  description = "80%"
 
 [[feature]]
   icon_path = "js.png"
   icon_pack = "fas"
   name = "JavaScript"
-  description = "30%"
+  description = "50%"
 
 [[feature]]
   icon_path = "c.png"

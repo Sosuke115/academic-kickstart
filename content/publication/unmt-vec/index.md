@@ -1,6 +1,6 @@
 ---
 
-title: "Data augmentation for BilingualWord Embeddings using Unsupervised Machine Translation"
+title: "Analysis of BilingualWord Embeddings using pseudo corpus genarated from Unsupervised Machine Translation"
 authors:
 - admin
 # - Robert Ford

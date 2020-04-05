@@ -1,5 +1,5 @@
 ---
-title: Visualize game sales
+title: Visualization of game sales
 summary: A system that visualizes the number of game sales for each company using D3.js.
 tags:
 - Demo
