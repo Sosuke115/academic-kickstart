@@ -1,17 +1,20 @@
 ---
-title: 'Academic: the website builder for Hugo'
+title: 'Wantedly Inc.さんの夏季インターンに参加してきました'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+summary: participated in a summer internship at Wantedly Inc.
 authors:
 - admin
 tags:
 - Academic
 categories:
-- Demo
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+# - Demo
+date: "2020-08-24T00:00:00Z"
+lastmod: "2020-08-24T00:00:00Z"
 featured: false
 draft: false
+
+# Optional external URL for project (replaces project detail page).
+external_link: "https://nchaso.hatenablog.com/entry/2020/08/23/233646"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

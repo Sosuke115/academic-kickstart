@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Work and Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,16 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Machine Learning Engineer"
-  company = "Studio Ousia"
-  company_url = "https://www.ousia.jp/en/"
+  title = "Research Intern"
+  company = "SONY"
+  company_url = "https://www.sony.net/SonyInfo/technology/about/rdc/tech-portfolio/ai-machine_learning/"
   location = "Tokyo,Japan"
-  date_start = "2020-02-05"
-  date_end = ""
+  date_start = "2020-09-14"
+  date_end = "2020-10-09"
   description = """
   <br />
-  * research multilingual models.
+  *  research on dialogue system.
   <!-- Responsibilities include:
   
   * Analysing
@@ -35,8 +36,84 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Research Assistant"
+  company = "National Institute of Informatics"
+  company_url = "https://www.nii.ac.jp/en/"
+  location = "Tokyo,Japan"
+  date_start = "2020-04-20"
+  date_end = ""
+  description = """
+  <br />
+  *  research on fake news and biased news.
+  <!-- Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying -->
+  """
+
+
+
+[[experience]]
+  title = "Research Intern"
+  company = "Studio Ousia Inc."
+  company_url = "https://www.ousia.jp/en/"
+  location = "Tokyo,Japan"
+  date_start = "2020-02-05"
+  date_end = ""
+  description = """
+  <br />
+  * research on multilingual models.
+  * worked on [SHINRA2020-ML: Classification Task](http://shinra-project.info/shinra2020ml/?lang=en). 
+         (ranked first in German and French)
+  <!-- Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying -->
+  """
+
+[[experience]]
+  title = "Machine Learning Engineer"
+  company = "Cookpad Inc."
+  company_url = "https://research.cookpad.com/en/"
+  location = "Tokyo,Japan"
+  date_start = "2020-09-01"
+  date_end = "2020-09-11"
+  description = """
+  <br />
+  * worked on a model to estimate ingredients from the recipe titles.
+  * deployed the API that predicts ingredients from the model
+
+  <!-- Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying -->
+  """
+
+[[experience]]
+  title = "Machine Learning Engineer"
+  company = "Wantedly Inc."
+  company_url = "https://www.wantedly.com/projects"
+  location = "Tokyo,Japan"
+  date_start = "2020-08-03"
+  date_end = "2020-08-21"
+  description = """
+  <br />
+  * improved the model that recommends connections using graph embeddings.
+  <!-- Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying -->
+  """
+
+
+
+[[experience]]
   title = "Software Engineer"
-  company = "Stockmark"
+  company = "Stockmark Inc."
   company_url = "https://stockmark.co.jp"
   location = "Tokyo,Japan"
   date_start = "2018-12-01"

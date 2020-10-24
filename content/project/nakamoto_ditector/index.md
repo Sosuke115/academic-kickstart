@@ -1,6 +1,6 @@
 ---
 title: Nakamoto Classifier
-summary: Classify Nakamoto using neural network.
+summary: A system that can classify Nakamoto ramen using a deep neural network model created from scratch.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

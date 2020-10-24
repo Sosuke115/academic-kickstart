@@ -13,9 +13,9 @@ superuser: true
 role: Master's student 
 
 # Organizations/Affiliations
-organizations:
+organizations: 
 - name: The University of Tokyo
-  url: ""
+  url: "https://www.i.u-tokyo.ac.jp/index_e.shtml"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -23,13 +23,13 @@ bio:
 
 interests:
 - Machine Learning
-- Computational Linguistics
+- Natural Language Processing
 
 
 education:
   courses:
-  - course: BEng in Artificial Intelligence
-    institution: The University of Tokyo
+  - course: BEng in Electrical Engineering and Computer Science
+    institution: The University of Tokyo  
     year: 2019
 
 # Social/Academic Networking
@@ -43,17 +43,22 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ponyo_ponyo115
-# - icon: google-scholar
-#   icon_pack: ai
+# - icon: envelop
+#   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Sosuke115
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://Sosuke115.github.io/files/CV.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sosuke-nishikawa-2100581a0/
+
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,7 +71,14 @@ user_groups:
 ---
 
 
-Hi, I’m Sosuke Nishikawa (西川荘介).[CV](https://Sosuke115.github.io//files/CV.pdf)
+Hi, I’m Sosuke Nishikawa (西川荘介). 
 
-I am a master's student at the University of Tokyo. 
-My primary research interests lie in Natural Language Processing. In particular, I am interested in multilingual models, word and entity embedding.
+I am a master's student in Information Science and Technology at the University of Tokyo. 
+My primary research interests lie in Natural Language Processing. In particular, I am currently interested in multilingual models, word embeddings, 
+extended named entity, pretrained models, and adversarial example.
+
+[Portfolio (Japanese)](https://Sosuke115.github.io/files/portfolio.pdf) 
+
+[Qiita (Tech Blog)](https://qiita.com/Sosuke115)
+
+[Hatena (Blog)](https://nchaso.hatenablog.com/)

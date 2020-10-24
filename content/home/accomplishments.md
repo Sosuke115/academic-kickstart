@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -19,33 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "Matsuo Lab."
+  organization_url = "https://weblab.t.u-tokyo.ac.jp/en/"
+  title = "Deep Learning Lectures"
+  url = "https://deeplearning.jp/en/lectures/"
+  certificate_url = ""
+  date_start = "2020-03-16"
+  date_end = "2020-04-09"
+  description =  """
+  [Deep Learning for NLP](https://deeplearning.jp/en/deep-learning-for-nlp/) : implemented word2vec, LSTM and transformer model from scratch.
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  [Deep Learning Basic](https://deeplearning.jp/en/lectures/deep-learning-foundation/) :　learned basic techniques of MLP and neural networks. : [certificate](https://Sosuke115.github.io/files/dl_basic.pdf) 
+
+  [Chair for Global Consumer Intelligence](https://gci.t.u-tokyo.ac.jp/gci-2020-summer/) : learned techniques for handling machine learning and big data : [certificate](https://Sosuke115.github.io/files/gci.pdf) 
+   """ 
 
 +++
