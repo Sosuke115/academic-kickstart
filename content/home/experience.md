@@ -85,6 +85,8 @@ date_format = "Jan 2006"
   * worked on a model to estimate ingredients from the recipe titles.
   * deployed the API that predicts ingredients from the model
 
+[blog](https://nchaso.hatenablog.com/entry/2020/09/11/205555)
+
   <!-- Responsibilities include:
   
   * Analysing
@@ -95,13 +97,18 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Machine Learning Engineer"
   company = "Wantedly Inc."
-  company_url = "https://www.wantedly.com/projects"
+  company_url = "https://www.wantedly.com/projects/437483?_ga=2.123688207.50724393.1603554721-1177667826.1603554721"
   location = "Tokyo,Japan"
   date_start = "2020-08-03"
   date_end = "2020-08-21"
   description = """
+
   <br />
   * improved the model that recommends connections using graph embeddings.
+
+[blog](https://nchaso.hatenablog.com/entry/2020/08/23/233646)
+  
+  
   <!-- Responsibilities include:
   
   * Analysing
