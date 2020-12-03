@@ -74,8 +74,7 @@ user_groups:
 Hi, I’m Sosuke Nishikawa (西川荘介). 
 
 I am a master's student in Information Science and Technology at the University of Tokyo. 
-My primary research interests lie in Natural Language Processing. In particular, I am currently interested in multilingual models, word embeddings, 
-extended named entity, pretrained models, and adversarial example.
+My primary research interests lie in Natural Language Processing. In particular, I am currently interested in multilingual models, named entity, pretrained models, and adversarial examples.
 
 [Portfolio (Japanese)](https://Sosuke115.github.io/files/portfolio.pdf) 
 
