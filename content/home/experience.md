@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   <br />
   * research on multilingual models.
   * worked on [SHINRA2020-ML: Classification Task](http://shinra-project.info/shinra2020ml/?lang=en). 
-         (ranked first in German and French)
+         (ranked first in German and French) [blog](https://nchaso.hatenablog.com/entry/2020/12/12/162906)
   <!-- Responsibilities include:
   
   * Analysing
