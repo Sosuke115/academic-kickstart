@@ -18,6 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+[[experience]]
+  title = "Machine Learning Engineer (Part time)"
+  company = "Studio Ousia Inc."
+  company_url = "https://www.ousia.jp/en/"
+  location = "Tokyo,Japan"
+  date_start = "2020-02-05"
+  date_end = ""
+  description = """
+  <br />
+  * research on multilingual models.
+  * worked on [SHINRA2020-ML: Classification Task](http://shinra-project.info/shinra2020ml/?lang=en). 
+         (ranked first in German and French) [blog](https://nchaso.hatenablog.com/entry/2020/12/12/162906)
+  <!-- Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying -->
+  """
+
 [[experience]]
   title = "Research Intern"
   company = "SONY"
@@ -55,26 +76,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Research Intern"
-  company = "Studio Ousia Inc."
-  company_url = "https://www.ousia.jp/en/"
-  location = "Tokyo,Japan"
-  date_start = "2020-02-05"
-  date_end = ""
-  description = """
-  <br />
-  * research on multilingual models.
-  * worked on [SHINRA2020-ML: Classification Task](http://shinra-project.info/shinra2020ml/?lang=en). 
-         (ranked first in German and French) [blog](https://nchaso.hatenablog.com/entry/2020/12/12/162906)
-  <!-- Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying -->
-  """
-
-[[experience]]
-  title = "Machine Learning Engineer"
+  title = "Machine Learning Engineer Intern"
   company = "Cookpad Inc."
   company_url = "https://research.cookpad.com/en/"
   location = "Tokyo,Japan"
@@ -95,7 +97,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Machine Learning Engineer"
+  title = "Machine Learning Engineer Intern"
   company = "Wantedly Inc."
   company_url = "https://www.wantedly.com/projects/437483?_ga=2.123688207.50724393.1603554721-1177667826.1603554721"
   location = "Tokyo,Japan"
@@ -119,7 +121,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Software Engineer"
+  title = "Software Engineer (Part time)"
   company = "Stockmark Inc."
   company_url = "https://stockmark.co.jp"
   location = "Tokyo,Japan"
