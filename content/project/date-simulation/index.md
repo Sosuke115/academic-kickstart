@@ -1,6 +1,6 @@
 ---
 title: Dating Simulation 
-summary: A game to date while talking to a girl by voice at the aquarium.
+summary:  A game to date while talking to a girl by voice at the aquarium. Sponsor award at [Information Visualization Contest](https://yatani.jp/teaching/doku.php?id=2018infovislab:start)
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

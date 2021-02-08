@@ -73,6 +73,22 @@ date_format = "Jan 2006"
   * Deploying -->
   """
 
+  [[experience]]
+  title = "Software Engineer Intern"
+  company = "CyberAgent Inc."
+  company_url = "https://www.cyberagent.co.jp/en/"
+  location = "Tokyo,Japan (Akihabara lab.)"
+  date_start = "2020-02-02"
+  date_end = ""
+  description = """
+  <br />
+  * work on information extraction on Web Documents.
+  <!-- Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying -->
+  """
 
 
 [[experience]]

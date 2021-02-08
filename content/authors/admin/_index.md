@@ -24,13 +24,14 @@ bio:
 interests:
 - Machine Learning
 - Natural Language Processing
+- Software Engineering
 
 
 education:
   courses:
   - course: BEng in Electrical Engineering and Computer Science
     institution: The University of Tokyo  
-    year: 2019
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -1,11 +1,13 @@
 ---
 
-title: "教師なし機械翻訳の出力結果から作成したBilingual Word Embeddingsの分析"
+title: "エンティティの言語間リンクに基づく多言語モデルの構築"
 authors:
 - admin
-- Yoshimasa Tsuruoka
+- Ikuya Yamada
+- Yoshimasa Tsuruoka 
+- Isao Echizen
 # - Robert Ford
-date: "2020-03-01T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +26,7 @@ publication_short: ""
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: "言語処理学会第26回年次大会 (NLP2020)"
+summary: "言語処理学会第27回年次大会 発表予定"
 
 tags:
 - Source Themes
@@ -33,10 +35,10 @@ featured: false
 # links:
 # - name: ""
 #url: https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-20.pdf
-url_pdf: https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-20.pdf
+url_pdf: https://Sosuke115.github.io/files/entity_link.pdf
 url_code: ''
 url_dataset: ''
-url_poster: https://Sosuke115.github.io/files/poster.pdf
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
