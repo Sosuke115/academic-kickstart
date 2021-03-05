@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   company_url = "https://www.cyberagent.co.jp/en/"
   location = "Tokyo,Japan (Akihabara lab.)"
   date_start = "2020-02-02"
-  date_end = ""
+  date_end = "2020-02-26"
   description = """
   <br />
   * work on information extraction on Web Documents.
