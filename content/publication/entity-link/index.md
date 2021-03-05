@@ -38,7 +38,7 @@ featured: false
 url_pdf: https://Sosuke115.github.io/files/nlp2021.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ' https://Sosuke115.github.io/files/nlp2021_poster.pdf'
+url_poster: https://Sosuke115.github.io/files/nlp2021_poster.pdf
 url_project: ''
 url_slides: ''
 url_source: ''
