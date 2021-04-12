@@ -1,11 +1,10 @@
 ---
 
-title: "エンティティの言語間リンクに基づく多言語モデルの構築"
+title: "マルチラベル分類による材料推薦モデル"
 authors:
+- Yusuke Fukasawa
+- Jun Harashima 
 - admin
-- Ikuya Yamada
-- Yoshimasa Tsuruoka 
-- Isao Echizen
 # - Robert Ford
 date: "2021-03-01T00:00:00Z"
 doi: ""
@@ -35,10 +34,10 @@ featured: false
 # links:
 # - name: ""
 #url: https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-20.pdf
-url_pdf: https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P8-14.pdf
+url_pdf: https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P4-21.pdf
 url_code: ''
 url_dataset: ''
-url_poster: https://Sosuke115.github.io/files/nlp2021_poster.pdf
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
