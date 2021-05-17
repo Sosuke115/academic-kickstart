@@ -1,17 +1,17 @@
 ---
 
-title: "Data Augmentation for Learning Bilingual Word Embeddings with
-Unsupervised Machine Translation"
-authors: 
+title: "A Multilingual Bag-of-Entities Model forZero-Shot Cross-Lingual Text Classification"
+authors:
 - admin
-- Ryokan Ri
-- Yoshimasa Tsuruoka
+- Ikuya Yamada
+- Yoshimasa Tsuruoka 
+- Isao Echizen
 # - Robert Ford
-date: "2020-05-30T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-03-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,14 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "nlp2021"
 publication_short: ""
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: "ACL-IJCNLP 2021 Student Research Workshop"
-# we propose a new approach that improves the quality of bilingual word embeddings using pseudo data generated from the unsupervised machine translation model.
+summary: "ACL-IJCNLP 2021 Student Research Workshop (non-archival option)"
 
 tags:
 - Source Themes
@@ -36,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #url: https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-20.pdf
-url_pdf: https://arxiv.org/pdf/2006.00262.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -75,5 +74,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
- -->
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
+

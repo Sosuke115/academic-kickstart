@@ -1,6 +1,7 @@
 ---
 title: Twitter Image Captioning
 summary: A system for recommending tweet from images. First place at [Advanced Artificial IntelligenceⅡ](https://www.ai.u-tokyo.ac.jp/ja/lectures/fai-2) [[Poster](https://Sosuke115.github.io/files/twitter_image_caption.pdf)]  [[Certificate](https://Sosuke115.github.io/files/twitter_certificate.jpg)]
+
 tags:
 - API
 date: "2020-12-01T00:00:00Z"
