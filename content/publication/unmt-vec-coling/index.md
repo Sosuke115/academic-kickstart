@@ -1,11 +1,9 @@
 ---
-
-title: "Data Augmentation for Learning Bilingual Word Embeddings with
-Unsupervised Machine Translation"
-authors: 
-- admin
-- Ryokan Ri
-- Yoshimasa Tsuruoka
+title: "Data Augmentation with Unsupervised Machine Translation Improves the Structural Similarity of Cross-lingual Word Embeddings"
+authors:
+  - admin
+  - Ryokan Ri
+  - Yoshimasa Tsuruoka
 # - Robert Ford
 date: "2020-05-30T00:00:00Z"
 doi: ""
@@ -30,25 +28,25 @@ summary: "ACL-IJCNLP 2021 Student Research Workshop"
 # we propose a new approach that improves the quality of bilingual word embeddings using pseudo data generated from the unsupervised machine translation model.
 
 tags:
-- Source Themes
+  - Source Themes
 featured: false
 
 # links:
 # - name: ""
 #url: https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-20.pdf
-url_pdf: https://arxiv.org/pdf/2006.00262.pdf
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://aclanthology.org/2021.acl-srw.17/
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
 
@@ -66,7 +64,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-<!-- 
+
+<!--
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
