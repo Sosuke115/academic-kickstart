@@ -37,7 +37,7 @@ featured: false
 url_pdf: https://aclanthology.org/2021.acl-srw.17/
 url_code: ""
 url_dataset: ""
-url_poster: ""
+url_poster: https://Sosuke115.github.io/files/umtvec_slide.pdf
 url_project: ""
 url_slides: ""
 url_source: ""

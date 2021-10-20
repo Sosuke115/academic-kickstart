@@ -34,8 +34,7 @@ featured: false
 
 # links:
 # - name: ""
-#url: https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-20.pdf
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2110.07792.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
